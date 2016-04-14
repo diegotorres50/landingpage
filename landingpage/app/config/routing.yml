@@ -1,0 +1,9 @@
+# @diegotorres50: import routes from a controller directory
+landingpage_app:
+    resource: "@LandingpageAppBundle/Controller"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

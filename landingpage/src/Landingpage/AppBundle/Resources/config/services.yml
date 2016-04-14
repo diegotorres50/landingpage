@@ -1,0 +1,4 @@
+services:
+#    landingpage_app.example:
+#        class: Landingpage\AppBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
